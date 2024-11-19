@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /contact-us-tm.html
+Disallow: /contact-us-ru.html
+Disallow: /contact-us-en.html
+
+Sitemap:  sitemap.xml
